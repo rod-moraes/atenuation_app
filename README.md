@@ -23,7 +23,7 @@
 
 ## 💻 Sobre o projeto
 
-AA.Calc é uma aplicação desenvolvida para o projeto interdiciplinar de Propagação de Ondas Eletromagnéticas e Engenharia de Software que chegou para simplificar a vida das pessoas que querem ter um sistema de antenas, com uma interface super simples, o aplicativo se basea em calcular para o usuário a atenuação gerada por obstaculos em um sistema de antena transmissora-receptora conforme os dados inseridos por ele, todos os resultados intermediarios são apresentados no final, além do resultado da atenuação final!
+AA.Calc é uma aplicação desenvolvida para o projeto interdisciplinar de Propagação de Ondas Eletromagnéticas e Engenharia de Software que chegou para simplificar a vida das pessoas que querem ter um sistema de antenas, com uma interface super simples, o aplicativo se baseia em calcular para o usuário a atenuação gerada por obstáculos em um sistema de antena transmissora-receptora conforme os dados inseridos por ele, todos os resultados intermediários são apresentados no final, além do resultado da atenuação final!
 
 ## 🚀 Tecnologias
 
